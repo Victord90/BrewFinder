@@ -30,4 +30,4 @@ https://victord90.github.io/BrewFinder/
 
 ### Portfolio Link
 
-https://victord90.github.io/Responsive-Portfolio/portfolio.html
+https://victord90.github.io/New-Portfolio/
